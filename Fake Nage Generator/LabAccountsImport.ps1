@@ -277,8 +277,6 @@ function Import-LabADUser
                         New-ADOrganizationalUnit -Name $_.City -Path $subou.DistinguishedName
                         $child_subou = Get-ADOrganizationalUnit -Filter "name -eq ""$($_.City)""" -SearchBase $subou.DistinguishedName        
                     }
-		    
-                    Write-Error $child_subou
 
                     $_ | Select @{Name="Path"; Expression={$child_subou.DistinguishedName}},* | New-ADUser
                 }
