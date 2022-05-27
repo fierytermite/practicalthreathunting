@@ -1,0 +1,1067 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3510 2631.89995">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-12, .cls-14, .cls-18, .cls-19, .cls-5, .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-16, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-12, .cls-14, .cls-18, .cls-5, .cls-7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-12, .cls-7 {
+        font-size: 14px;
+      }
+
+      .cls-14, .cls-7 {
+        fill: #f33;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.07422em;
+      }
+
+      .cls-10 {
+        fill: #33001a;
+      }
+
+      .cls-11 {
+        fill: #505050;
+      }
+
+      .cls-12, .cls-18 {
+        fill: red;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.11084em;
+      }
+
+      .cls-14, .cls-18 {
+        font-size: 12px;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.05518em;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.01807em;
+      }
+    </style>
+    <image id="image" width="32" height="32" xlink:href="data:image/png;base64,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"/>
+    <image id="image-2" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAaJJREFUSEvFlt1RAjEQgHeTBqAD7CAQeJcOsAPpQCpwqAA7sATsQN+5HdOBdCAFENbZG+KcITniz+HN8LLZ8GX/FyHxWWtnALACgEHqPJYh4sN+v18653Y5fYwPjpB1CSDScd77aQ6WAr0dLXFKqflms3E56Gg0ukNEsTx8WVgKxHJLKTVsg4jOZDIxh8PhtcSyLIiITs4y8awfdg7WFUi4joiG4QFdgkCysaqqhcD+AvQOAL1cwoQQ/BoUA4wxA6XULGRjZ6AAttbWSXJ5kLW21ceFHWJHRP2m7olFQYCI06qqXqQImXnGzPdy0Xvf11pLS7oOf5SSxXWXBYnieDxeMfPAez/XWktruRW5tfa5CcrJiixqXmbmOSJKJ153DqqLDPGxE1DkujouDZcaAJBfLycrcp0EWGbJsSNLIsjwq5MhzJgQq5SsJBkuk96JCfulokvqyBjTiyfr/3WGv7CobSCe7XUlozzn1uaC0wb6XE4AYElETyVxEh2JldZaWpVkrZTCloiucoNP0von61bqPTfhockF5LsLZIKwBYBF0xsf+SFpKh3KfkUAAAAASUVORK5CYII="/>
+    <image id="image-3" width="48" height="48" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <path class="cls-1" d="M0,0" transform="translate(-0.5 -0.3)"/>
+  <g>
+    <path class="cls-2" d="M1660.5,2267.1001V2143.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1660.5,2272.3999l-3.5-7,3.5,1.80005,3.5-1.80005Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1615,2273.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1615,2273.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1619.03516 2292.7)">PowerShell</text>
+    <path class="cls-2" d="M1035.5,2128.5h568.6" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1609.4,2128.5l-7,3.5,1.80005-3.5L1602.4,2125Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1663" y="2153.2" width="20" height="120"/>
+    <text class="cls-7" transform="translate(1668.5 2172.63115) rotate(90)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1480" y="2278.2" width="125" height="20"/>
+    <g class="cls-8">
+      <text class="cls-5" transform="translate(1501.58984 2284.39629)">Grandchild </text>
+      <text class="cls-5" transform="translate(1492.28979 2303.59624)">process GUID</text>
+    </g>
+    <path class="cls-2" d="M1678.5,1851.5v132" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1633,1821.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1633,1821.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1642.375 1840.7)">command</text>
+    <rect class="cls-6" x="1475" y="1826.2" width="153" height="20"/>
+    <text class="cls-5" transform="translate(1480.8125 1840.7)">Child process GUID</text>
+    <path class="cls-4" d="M1350,1693.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1350,1693.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1354.03516 1712.7)">PowerShell</text>
+    <path class="cls-4" d="M1690,1693.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1690,1693.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1718.05078 1712.7)">sdctl</text>
+    <rect class="cls-6" x="1635.49299" y="1763.37697" width="120.00101" height="20.00017" transform="translate(-698.3043 2313.16041) rotate(-59.00284)"/>
+    <text class="cls-7" transform="translate(1677.29244 1809.10547) rotate(-59)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1620.4417" y="1704.59598" width="19.99948" height="129.9966" transform="translate(-773.67822 1880.72013) rotate(-49.99782)"/>
+    <text class="cls-7" transform="translate(1596.23518 1746.00857) rotate(40)">Sysmon ID 1</text>
+    <path class="cls-4" d="M1615,2113.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1615,2113.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1624.375 2132.7)">command</text>
+    <rect class="cls-6" x="1568.59998" y="2088.2" width="185" height="20"/>
+    <text class="cls-5" transform="translate(1589.8125 2102.7)">Child process GUID</text>
+    <rect class="cls-6" x="1358.69995" y="2109.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1373.43115 2122.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1354.1741" y="1943.56008" width="120.00001" height="20" transform="translate(-583.34277 601.14729) rotate(-19.99877)"/>
+    <text class="cls-7" transform="translate(1377.20035 1970.07663) rotate(-20)">Sysmon ID 1</text>
+    <path class="cls-2" d="M1035.5,2128.5,1672.7,1854" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1677.5,1851.9l-5,6,.19995-3.9-3-2.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1678.5,1821.5l53.80005-92.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1734.9,1724.5l-.5,7.80005-2.1-3.30005-3.9-.19995Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1678.5,1821.5l-252.1-95.69995" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1421.6,1723.9l7.8-.8-2.9,2.69995.4,3.9Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1690.41946" y="2323.38926" width="109.99476" height="19.99905" transform="translate(-40.95934 30.5186) rotate(-1.00005)"/>
+    <text class="cls-7" transform="matrix(0.99985, -0.01745, 0.01745, 0.99985, 1704.50752, 2337.3972)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1510" y="2363.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1520.53809 2376.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1682.5" y="2403.2" width="125" height="20"/>
+    <text class="cls-7" transform="translate(1684.71289 2416.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <rect class="cls-6" x="1510" y="2443.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1520.53809 2456.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="1510" y="2523.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1521.05762 2536.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1</tspan></text>
+    <rect class="cls-6" x="1680" y="2563.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1688.08643 2576.7)">Sysmon ID 5 &amp; 13</text>
+    <path class="cls-2" d="M1660.5,2623.5v-320" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1661,2343.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1829.4,2343.5l-7,3.5,1.80005-3.5L1822.4,2340Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1660.5,2383.5l-163.6,1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1491.6,2384.5l7-3.5-1.7,3.5,1.80005,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1660.5,2422.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1828.9,2422.5l-7,3.5,1.80005-3.5L1821.9,2419Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1660.80005,2463.5H1496.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1491.6,2463.5l7-3.5-1.80005,3.5L1498.6,2467Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1660.5,2503.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1828.9,2503.5l-7,3.5,1.80005-3.5L1821.9,2500Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1659.80005,2543.5H1496.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1491.6,2543.5l7-3.5-1.80005,3.5L1498.6,2547Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1660.5,2583.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1828.9,2583.5l-7,3.5,1.80005-3.5L1821.9,2580Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1682.5" y="2483.2" width="125" height="20"/>
+    <text class="cls-7" transform="translate(1684.71289 2496.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <use class="cls-8" transform="translate(1839.5 2322.7) scale(1.1538)" xlink:href="#image-2"/>
+    <use class="cls-8" transform="translate(1447.5 2362.7)" xlink:href="#image"/>
+    <rect class="cls-6" x="1841.80005" y="2403.2" width="28.19995" height="30"/>
+    <path class="cls-10" d="M1842.30005,2406.8999a3.8299,3.8299,0,0,1,3.4-3.3999h19l5.8,6v20.3999a3.95772,3.95772,0,0,1-3,3.7h-22a3.73455,3.73455,0,0,1-3.1-3.5v-23.2Zm2.3999,22.90015a1.367,1.367,0,0,0,1.4,1.3999h20.8a1.5327,1.5327,0,0,0,1.30005-1.6001V2410.7998h-4.7v-4.8999H1846a1.5146,1.5146,0,0,0-1.30005,1.5ZM1851,2426.3999A.94824.94824,0,0,1,1849.7,2426.2a.935.935,0,0,1,.1-1.30005l8.9-6.3999-5.5-6.3999a1.23819,1.23819,0,0,1,.30005-1.3999.93488.93488,0,0,1,1.30005.10009l6.1,7a1.215,1.215,0,0,1,0,1.6001Zm5.19995.1001a1.23661,1.23661,0,0,1-.4-1.3999,1.165,1.165,0,0,1,1.2-.80005h5.19995a1.42539,1.42539,0,0,1,.6,1.2,1.21488,1.21488,0,0,1-.8,1Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1841.80005" y="2487.2" width="28.19995" height="30"/>
+    <path class="cls-10" d="M1842.30005,2490.8999a3.8299,3.8299,0,0,1,3.4-3.3999h19l5.8,6v20.3999a3.95772,3.95772,0,0,1-3,3.7h-22a3.73455,3.73455,0,0,1-3.1-3.5v-23.2Zm2.3999,22.90015a1.367,1.367,0,0,0,1.4,1.3999h20.8a1.5327,1.5327,0,0,0,1.30005-1.6001V2494.7998h-4.7v-4.8999H1846a1.5146,1.5146,0,0,0-1.30005,1.5ZM1851,2510.3999A.94824.94824,0,0,1,1849.7,2510.2a.935.935,0,0,1,.1-1.30005l8.9-6.3999-5.5-6.3999a1.23819,1.23819,0,0,1,.30005-1.3999.93488.93488,0,0,1,1.30005.10009l6.1,7a1.215,1.215,0,0,1,0,1.6001Zm5.19995.1001a1.23661,1.23661,0,0,1-.4-1.3999,1.165,1.165,0,0,1,1.2-.80005h5.19995a1.42539,1.42539,0,0,1,.6,1.2,1.21488,1.21488,0,0,1-.8,1Z" transform="translate(-0.5 -0.3)"/>
+    <use class="cls-8" transform="translate(1447.5 2436.7)" xlink:href="#image"/>
+    <rect class="cls-6" x="1840" y="2563.2" width="30" height="30"/>
+    <path class="cls-11" d="M1858.6,2579.1001a1.07527,1.07527,0,0,0-.1-1.3999l-8.80005-8.30005a1.67145,1.67145,0,0,0-2.19995,0,1.69,1.69,0,0,0,0,2.30005l7,6.60009-6.9,6.1001a1.79891,1.79891,0,0,0-.4,2.2,1.70639,1.70639,0,0,0,2.5.3999Zm4.70007,8.2998A1.21,1.21,0,0,0,1864.5,2586.2a1.24009,1.24009,0,0,0-1.19995-1.30005h-7a1.277,1.277,0,0,0-1.19995,1.2,1.24084,1.24084,0,0,0,1.19995,1.3Zm-20.9,6.1001a1.89874,1.89874,0,0,1-1.9-1.8999v-26.2a1.96485,1.96485,0,0,1,1.9-1.89991h26.2a1.98535,1.98535,0,0,1,2,1.89991v26.10009a1.8951,1.8951,0,0,1-1.9,1.89991H1842.4Z" transform="translate(-0.5 -0.3)"/>
+    <use class="cls-8" transform="translate(1879.5 2561.7)" xlink:href="#image"/>
+    <image class="cls-8" width="128" height="128" transform="translate(1449.5 2522.7) scale(0.2344)" xlink:href="data:image/png;base64,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"/>
+    <rect class="cls-6" x="1383.69995" y="2363.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1394.42773 2376.7)">x1044</text>
+    <rect class="cls-6" x="1870" y="2328.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1884.3208 2341.7)">x100</text>
+    <rect class="cls-6" x="1880" y="2390.7" width="320" height="45"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(1881.5 2416.7)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_0gslifez.da2.ps1</tspan></text>
+      <text class="cls-7" transform="translate(1881.5 2433.50005)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_uwalamv2.sts.psm1</tspan></text>
+    </g>
+    <rect class="cls-6" x="1880" y="2476.2" width="320" height="41"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(1881.5 2500.7)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_3cy1vzpq.irn.ps1</tspan></text>
+      <text class="cls-7" transform="translate(1881.5 2517.50005)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_pwyq4wa.lc4.psm1</tspan></text>
+    </g>
+    <rect class="cls-6" x="1922" y="2562.2" width="60" height="20"/>
+    <text class="cls-7" transform="translate(1923.5 2575.7)">powershell.exe</text>
+    <rect class="cls-6" x="1388" y="2528.2" width="60" height="20"/>
+    <text class="cls-7" transform="translate(1389.5 2541.7)">Draft.zip</text>
+    <rect class="cls-6" x="1235" y="2413.2" width="240" height="70"/>
+    <g class="cls-8">
+      <text class="cls-14" transform="translate(1260 2416.7)">HKEY_LOCAL_MACHINE\Software\Policies</text>
+      <text class="cls-14" transform="translate(1260 2431.10002)">\Microsoft\Windows\Current<tspan class="cls-15" x="147.36914" y="0">V</tspan><tspan x="154.71094" y="0">ersion\Internet </tspan></text>
+      <text class="cls-14" transform="translate(1260 2445.50005)">Settings\ZoneMap\ProxyByPass</text>
+      <text class="cls-14" transform="translate(1260 2459.89995)">[...]\IntranetName</text>
+      <text class="cls-14" transform="translate(1260 2474.29998)">[...]\UNCAsIntranet</text>
+      <text class="cls-14" transform="translate(1260 2488.7)">[...]\AutoDetect</text>
+    </g>
+    <path class="cls-2" d="M1659.80005,2623.5H1496.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1491.6,2623.5l7-3.5-1.80005,3.5L1498.6,2627Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1230.40002" y="2553.2" width="307.5" height="60"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(1231.5 2586.7)">..\AppData\Local\Microsoft\Windows\PowerShell</text>
+      <text class="cls-7" transform="translate(1231.5 2603.50005)">\StartupProfileData-Interactive</text>
+    </g>
+    <rect class="cls-6" x="1453" y="2603.2" width="27" height="28.69995"/>
+    <path d="M1453.5,2606.80005a3.71913,3.71913,0,0,1,3.19995-3.3h18.19995l5.6,5.7v19.3999a3.76912,3.76912,0,0,1-3.4,3.6001H1456.7998a3.61577,3.61577,0,0,1-3.19995-3.2v-22.2Zm2.19995,21.7a1.41023,1.41023,0,0,0,1.1,1.3999H1477.1a1.31965,1.31965,0,0,0,1.1-1.3999v-17.8999h-4.5v-4.7H1456.8999a1.5032,1.5032,0,0,0-1.1,1.30005Zm4.9-15.8h12.5v2.3999h-12.5Zm0,4.5h12.5v2.3999h-12.5Zm0,4.6001h12.5V2624.2h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1510.5" y="2603.2" width="129.5" height="20"/>
+    <text class="cls-7" transform="translate(1514.71289 2616.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <path class="cls-2" d="M1910.5,1693.5V1409.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1910.5,1404.6l3.5,7-3.5-1.80005L1907,1411.6Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1866,1693.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1866,1693.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1894.05078 1712.7)">sdctl</text>
+    <rect class="cls-6" x="1735.43737" y="1752.54754" width="119.998" height="19.99967" transform="translate(-546.42902 841.28424) rotate(-22.99847)"/>
+    <text class="cls-7" transform="matrix(0.9205, -0.39073, 0.39073, 0.9205, 1759.1794, 1781.03784)">Sysmon ID 1</text>
+    <path class="cls-2" d="M1678.5,1821.5l227.1-95.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1910.5,1723.9l-5.1,5.9.30005-3.9-3-2.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1515.5,1693.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1515.5,1693.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1544.05078 1712.7)">sdctl</text>
+    <path class="cls-2" d="M1678.5,1821.5l-112.6-93.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1561.9,1724.2,1569.5,1726l-3.6,1.6-.9,3.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2075.5,1693.5v-180" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M2030,1693.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,2030,1693.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(2034.03516 1712.7)">PowerShell</text>
+    <path class="cls-2" d="M1678.5,1821.5l390.8-96.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2074.3999,1723.80005l-5.8999,5.1.8999-3.8-2.5-3Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1536.08362" y="1697.52432" width="20.0006" height="130.00387" transform="translate(-653.9616 2573.93667) rotate(-68.99869)"/>
+    <text class="cls-7" transform="translate(1506.6262 1751.25502) rotate(21)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1835.50538" y="1748.63796" width="120.00318" height="20.00053" transform="translate(-411.76337 590.19196) rotate(-15.99734)"/>
+    <text class="cls-7" transform="translate(1857.08593 1772.58849) rotate(-16)">Sysmon ID 1</text>
+    <path class="cls-4" d="M1864.1,1373.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1864.1,1373.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1869.36719 1392.7)">control.exe</text>
+    <path class="cls-2" d="M1909.7,1013.5v-90H1130.5V707.7" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1130.5,702.4l3.5,7-3.5-1.8-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1909.6,1013.5V733.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1909.6,728.6l3.5,7-3.5-1.8-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1959.6,1023.5h190.9v280" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1859.6,1028.5h-137" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1717.4,1028.5l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1864.1,1013.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1864.1,1013.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1868.03516 1032.7)">PowerShell</text>
+    <rect class="cls-6" x="1891" y="1583.2" width="20" height="120"/>
+    <text class="cls-7" transform="translate(1904.5 1682.76836) rotate(-90)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1890" y="1113.2" width="20" height="120"/>
+    <text class="cls-7" transform="translate(1903.5 1212.76836) rotate(-90)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1930" y="962.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(1922.57617 976.7)">Bypass payload monke<tspan class="cls-9" x="144.75098" y="0">y</tspan><tspan x="150.71191" y="0">.jpg</tspan></text>
+    <path class="cls-2" d="M790.5,269.3H673.4" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M668.1,269.3l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1950,692.5v-50l-.19995-157.6" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1949.80005,479.6l3.5,7-3.5-1.7-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1864.1,697.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5V702A4.48129,4.48129,0,0,1,1864.1,697.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1868.03516 716.7)">PowerShell</text>
+    <path class="cls-2" d="M2223.6001,836.5h153.6001" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2382.5,836.5l-7,3.5,1.8-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M2128.1001,821.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5V826A4.48129,4.48129,0,0,1,2128.1001,821.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(2145.37891 840.7)">csc.exe</text>
+    <path class="cls-4" d="M2388.1001,821.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5V826A4.48129,4.48129,0,0,1,2388.1001,821.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(2396.04297 840.7)">cvtres.exe</text>
+    <rect class="cls-6" x="2330.6001" y="864.49999" width="205" height="20"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(2346.38379 870.43437)"><tspan xml:space="preserve">Command to run payload in  </tspan></text>
+      <text class="cls-7" transform="translate(2340.98389 887.23436)">PowerShell memory runspace</text>
+    </g>
+    <path class="cls-4" d="M1901,449.7h101a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5H1901a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1901,449.7Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1900.68359 468.7)">sdelete64.exe</text>
+    <path class="cls-2" d="M557,372.3H283.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="280" cy="371.99999" r="3"/>
+    <path class="cls-4" d="M561.5,358.3h101a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-101a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,561.5,358.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(560.35938 377.7)">PsExec64.exe</text>
+    <rect class="cls-6" x="2243.1001" y="811.2" width="120" height="20"/>
+    <text class="cls-7" transform="translate(2262.43115 824.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1885" y="773.2" width="20" height="120"/>
+    <text class="cls-7" transform="translate(1898.5 872.76836) rotate(-90)">Sysmon ID 1</text>
+    <rect class="cls-6" x="670.29999" y="420.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(689.43121 434.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="670.29999" y="244.80001" width="120" height="20"/>
+    <text class="cls-7" transform="translate(689.43121 258.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1826" y="407.2" width="20" height="120"/>
+    <text class="cls-7" transform="translate(1839.5 506.76836) rotate(-90)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1921.69995" y="550.60002" width="20" height="93.09998"/>
+    <text class="cls-7" transform="translate(1935.18506 636.45391) rotate(-90)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1740.41705" y="2109.39943" width="109.99476" height="19.99905" transform="translate(-37.2169 31.35863) rotate(-1.00005)"/>
+    <text class="cls-7" transform="matrix(0.99985, -0.01745, 0.01745, 0.99985, 1765.12056, 2125.69921)">Sysmon ID 7</text>
+    <path class="cls-2" d="M1711,2130.5l143.5,50.8999" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1859.4,2183.1001l-7.8,1,2.8-2.7-.5-3.89991Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1791.51757" y="2087.60235" width="19.99986" height="129.99907" transform="translate(-820.86053 3154.75673) rotate(-70.99793)"/>
+    <text class="cls-7" transform="matrix(0.94552, 0.32557, -0.32557, 0.94552, 1749.99904, 2140.69991)">Sysmon ID 5 &amp; 13</text>
+    <path class="cls-2" d="M1710.5,2129.5h150.6" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1866.4,2129.5l-7,3.5,1.80005-3.5L1859.4,2126Z" transform="translate(-0.5 -0.3)"/>
+    <use class="cls-8" transform="translate(1874.5 2169.7) scale(0.625)" xlink:href="#image-3"/>
+    <use class="cls-8" transform="translate(1911.5 2162.7)" xlink:href="#image"/>
+    <use class="cls-8" transform="translate(1879.5 2112.7) scale(1.1538)" xlink:href="#image-2"/>
+    <rect class="cls-6" x="1915" y="2113.2" width="295" height="30"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(1917.42285 2127.7)">ntdll.exe, kernel32.dlll, KernelBase.dll,</text>
+      <text class="cls-7" transform="translate(1917.42285 2144.50005)">msvcrt.dll, combase.dll, ucrtbase.dll, rpcrt4.dll</text>
+    </g>
+    <path class="cls-4" d="M940,2113.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5H940a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,940,2113.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(956.48828 2132.7)">process</text>
+    <path class="cls-4" d="M1070,1927.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1070,1927.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1100.71484 1946.7)">port</text>
+    <path class="cls-4" d="M1090,1971.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1090,1971.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1128.27344 1990.7)">ip</text>
+    <path class="cls-4" d="M1110,2193.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1110,2193.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1146.49609 2212.7)">dll</text>
+    <path class="cls-2" d="M975.5,2113.5l105.80005-122.19995" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1084.80005,1987.30005l-1.9,7.6-1.5-3.6-3.8-1Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M973.9,2113.8999l88.6-165.8" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1065,1943.5l-.19995,7.80005L1062.5,1948.1001l-3.9-.1Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M969.6,2143.5l130.19995,62.2" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1104.5,2208l-7.80005.1001,3.1-2.3999-.1-3.89991Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="910.53945" y="2001.55178" width="210.00378" height="20.00036" transform="translate(-1238.11432 2042.1556) rotate(-63.99866)"/>
+    <text class="cls-7" transform="matrix(0.43837, -0.89879, 0.89879, 0.43837, 1000.53031, 2048.46755)">Sysmon ID 3</text>
+    <rect class="cls-6" x="1010.54236" y="2073.55488" width="20.00036" height="210.00378" transform="translate(-1385.40683 2140.44181) rotate(-63.99866)"/>
+    <text class="cls-7" transform="matrix(0.89879, 0.43837, -0.43837, 0.89879, 981.73294, 2163.73018)">Sysmon ID 7</text>
+    <rect class="cls-6" x="805" y="2168.2" width="170" height="20"/>
+    <text class="cls-5" transform="translate(813.47272 2182.7)">Parent process GUID</text>
+    <rect class="cls-6" x="976.38882" y="2014.50713" width="129.99369" height="20.99898" transform="translate(-1188.19921 1559.60821) rotate(-50.99925)"/>
+    <text class="cls-7" transform="translate(1016.33157 2061.19764) rotate(-51)">Sysmon ID 22</text>
+    <rect class="cls-6" x="1050" y="2233.2" width="210" height="80"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(1082.64502 2250.19072)">C:\Windows\System32\</text>
+      <text class="cls-7" transform="translate(1118.04504 2266.99077)">Kernel32.dll</text>
+      <text class="cls-7" transform="translate(1110.64502 2283.7907)">Kernelbase.dll</text>
+      <text class="cls-7" transform="translate(1123.44507 2300.59075)">User32.dll</text>
+      <text class="cls-7" transform="translate(1123.84497 2317.39067)">win32u.dll</text>
+      <text class="cls-7" transform="translate(1133.245 2334.19072)">ntdll.dll</text>
+    </g>
+    <path class="cls-2" d="M975.5,2113.5l19.3-173.69995" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M995.4,1934.6l2.7,7.3-3.3-2.1-3.7,1.4Z" transform="translate(-0.5 -0.3)"/>
+    <use class="cls-8" transform="translate(982.5 1894.7)" xlink:href="#image"/>
+    <rect class="cls-6" x="870.88297" y="2011.46483" width="210.00111" height="20.00011" transform="translate(-1123.44256 2817.15359) rotate(-85.00003)"/>
+    <text class="cls-7" transform="matrix(0.08716, -0.99619, 0.99619, 0.08716, 974.99011, 2065.21199)">Sysmon ID 12</text>
+    <rect class="cls-6" x="894" y="1859.2" width="210" height="20"/>
+    <text class="cls-7" transform="translate(845.0752 1882.75005)">HKLM\System\CurrentControlSet\Services\<tspan class="cls-13" x="267.64063" y="0">T</tspan><tspan x="274.64063" y="0">cpip\Parameters</tspan></text>
+    <rect class="cls-6" x="1180" y="1932.2" width="30" height="20"/>
+    <text class="cls-7" transform="translate(1178.92773 1945.7)">1234</text>
+    <rect class="cls-6" x="1212.5" y="1966.2" width="30" height="20"/>
+    <text class="cls-7" transform="translate(1195 1983.11809)">192.168.0.5</text>
+    <rect class="cls-6" x="780" y="2183.2" width="210" height="20"/>
+    <text class="cls-7" transform="translate(844.43121 2196.7)">Sysmon ID 1</text>
+    <image class="cls-8" width="128" height="128" transform="translate(844.5 2087.7) scale(0.625)" xlink:href="data:image/png;base64,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"/>
+    <rect class="cls-6" x="1697.91905" y="1859.41135" width="109.99476" height="19.99905" transform="translate(-32.86028 30.57882) rotate(-1.00005)"/>
+    <text class="cls-7" transform="matrix(0.99985, -0.01745, 0.01745, 0.99985, 1711.50752, 1873.40624)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1705" y="1894.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1715.53809 1907.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1690" y="1926.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1710.53809 1939.7)">Sysmon ID 13</text>
+    <path class="cls-2" d="M1677.80005,1911.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1846.2,1911.5l-7,3.5L1841,1911.5,1839.2,1908Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1842.9,1879.5l-163.6,1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1848.2,1879.5l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1678.80005,1945.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1847.2,1945.5l-7,3.5L1842,1945.5,1840.2,1942Z" transform="translate(-0.5 -0.3)"/>
+    <use class="cls-8" transform="translate(1854.75 1895.7)" xlink:href="#image"/>
+    <path class="cls-2" d="M1679.5,1983.5l163.6-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1848.4,1983l-7,3.5,1.7-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1690" y="1963.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1714.43115 1976.7)">Sysmon ID 5</text>
+    <use class="cls-8" transform="translate(1850.5 1858.7) scale(1.1538)" xlink:href="#image-2"/>
+    <rect class="cls-6" x="1893" y="1889.2" width="677.5" height="30"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(1888.5 1907.7)">HKLM\Software\Microsoft\Windows\Current<tspan class="cls-15" x="269.96484" y="0">V</tspan><tspan x="278.53027" y="0">ersion\Explorer\SyncRootManager</tspan></text>
+      <text class="cls-7" transform="translate(1888.5 1924.49999)">HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Current<tspan class="cls-15" x="447.36426" y="0">V</tspan><tspan x="455.92969" y="0">ersion\Internet Settings\ZoneMap</tspan></text>
+    </g>
+    <use class="cls-8" transform="translate(1855.75 1965.7) scale(0.625)" xlink:href="#image-3"/>
+    <rect class="cls-6" x="1836" y="1934.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1854.7334 1947.7)">x<tspan class="cls-9" x="7" y="0">1</tspan><tspan x="13.74707" y="0">1</tspan></text>
+    <rect class="cls-6" x="1870" y="1859.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1888.21387 1872.7)">x59</text>
+    <path class="cls-2" d="M1680.5,1983.5l163.6-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1849.4,1983l-7,3.5,1.7-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1679.80005,1945.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1848.2,1945.5l-7,3.5L1843,1945.5,1841.2,1942Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1678.80005,1911.5h163.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1847.2,1911.5l-7,3.5L1842,1911.5,1840.2,1908Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1843.9,1879.5l-163.6,1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1849.2,1879.5l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2094.69995" y="1563.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2109.43115 1576.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="2099.69995" y="1598.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2110.53809 1611.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="2084.69995" y="1630.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2105.53809 1643.7)">Sysmon ID 13</text>
+    <use class="cls-8" transform="translate(2249.44995 1599.7)" xlink:href="#image"/>
+    <rect class="cls-6" x="2084.69995" y="1667.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2109.43115 1680.7)">Sysmon ID 5</text>
+    <use class="cls-8" transform="translate(2245.19995 1565.7) scale(1.1538)" xlink:href="#image-2"/>
+    <rect class="cls-6" x="2230.69995" y="1638.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2249.7334 1651.7)">x<tspan class="cls-9" x="7" y="0">1</tspan><tspan x="13.74707" y="0">1</tspan></text>
+    <rect class="cls-6" x="2264.69995" y="1571.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2283.21387 1584.7)">x87</text>
+    <path class="cls-2" d="M2075.2,1687.5l163.6001-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2244.1001,1687l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2074.5,1649.5h163.1001" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2242.8999,1649.5l-7,3.5,1.80005-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2073.5,1615.5h163.1001" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2241.8999,1615.5l-7,3.5,1.80005-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2238.6001,1583.5,2075,1584.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2243.8999,1583.5l-7,3.5,1.7-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2075.3999,1553.5H2238.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2243.80005,1553.5l-7,3.5,1.80005-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2087.19995" y="1533.2" width="125" height="20"/>
+    <text class="cls-7" transform="translate(2089.71289 1546.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <rect class="cls-6" x="2248.69995" y="1531.2" width="28.19995" height="30"/>
+    <path class="cls-10" d="M2249.2,1534.9a3.83025,3.83025,0,0,1,3.3999-3.4h19l5.8,6v20.4a3.95789,3.95789,0,0,1-3,3.7h-22a3.73481,3.73481,0,0,1-3.1001-3.5v-23.2Zm2.40015,22.9a1.3671,1.3671,0,0,0,1.3999,1.4h20.8a1.53257,1.53257,0,0,0,1.30005-1.6v-18.80005h-4.7v-4.9H2253a1.49327,1.49327,0,0,0-1.3,1.4v22.5Zm6.3999-3.4a.94825.94825,0,0,1-1.3-.19995.93488.93488,0,0,1,.1001-1.30005l8.8999-6.3-5.5-6.4a1.23821,1.23821,0,0,1,.3-1.4.935.935,0,0,1,1.3.1l6.1001,7a1.0877,1.0877,0,0,1,0,1.5Zm5.1001.1a1.23655,1.23655,0,0,1-.3999-1.4,1.29958,1.29958,0,0,1,1.19995-.80005h5.2a1.42581,1.42581,0,0,1,.6001,1.2,1.21474,1.21474,0,0,1-.80005,1h-5.8Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2248.69995" y="1673.2" width="30" height="30"/>
+    <path class="cls-11" d="M2267.30005,1689.1a1.07548,1.07548,0,0,0-.1001-1.4l-8.80005-8.30005a1.6716,1.6716,0,0,0-2.19995,0,1.69,1.69,0,0,0,0,2.30005l7,6.6-6.8999,6.1a1.79859,1.79859,0,0,0-.3999,2.2,1.61992,1.61992,0,0,0,2.5.3Zm4.7,8.3a1.2101,1.2101,0,0,0,1.2-1.19995A1.24009,1.24009,0,0,0,2272,1694.9h-7a1.27725,1.27725,0,0,0-1.2,1.2,1.24092,1.24092,0,0,0,1.2,1.3Zm-20.8,6.1a1.89866,1.89866,0,0,1-1.8999-1.9v-26.2a1.965,1.965,0,0,1,1.8999-1.9h26.19995a1.92259,1.92259,0,0,1,2,1.9v26.1a1.89518,1.89518,0,0,1-1.8999,1.9h-26.3Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2075.5,1514.5l163.6001-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2244.30005,1514l-7,3.5,1.7-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2278.69995" y="1483.2" width="515" height="60"/>
+    <text class="cls-7" transform="translate(2280.5 1516.7)">..\AppData\Local\Microsoft\Windows\PowerShell\StartupProfileData-Interactive</text>
+    <rect class="cls-6" x="2248.69995" y="1498.79998" width="27" height="28.69995"/>
+    <path d="M2249.2,1502.4a3.71937,3.71937,0,0,1,3.19995-3.3h18.2l5.6001,5.69995v19.4a3.85145,3.85145,0,0,1-3.3999,3.6h-20.3a3.61577,3.61577,0,0,1-3.2-3.19995v-22.2Zm2.19995,21.7a1.41046,1.41046,0,0,0,1.1001,1.4h20.3a1.49965,1.49965,0,0,0,1.1001-1.4v-17.9h-4.5V1501.5h-16.8a1.63016,1.63016,0,0,0-1.1001,1.30005Zm4.90015-15.79993h12.5v2.4h-12.5Zm0,4.6h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2084.8999" y="1493.2" width="129.5" height="20"/>
+    <text class="cls-7" transform="translate(2089.71289 1506.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <rect class="cls-6" x="2282.5" y="1523.7" width="387.5" height="45"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(2283.29785 1543.7)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_tkgjerah.y30.ps1</tspan></text>
+      <text class="cls-7" transform="translate(2283.29785 1560.49999)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_su3tnuie.ara.psm1</tspan></text>
+    </g>
+    <rect class="cls-6" x="2264.69995" y="1610.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2281.3208 1623.7)">x423</text>
+    <path class="cls-2" d="M1376.9,1693.5v-180" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1250.44042" y="1561.4256" width="109.99476" height="19.99905" transform="translate(-27.72762 22.72348) rotate(-1.00005)"/>
+    <text class="cls-7" transform="matrix(0.99985, -0.01745, 0.01745, 0.99985, 1264.50728, 1575.39775)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1250" y="1593.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1260.53809 1606.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1240" y="1628.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1260.53809 1641.7)">Sysmon ID 13</text>
+    <use class="cls-8" transform="translate(1172.5 1595.7)" xlink:href="#image"/>
+    <rect class="cls-6" x="1240" y="1667.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1264.43115 1680.7)">Sysmon ID 5</text>
+    <use class="cls-8" transform="translate(1174.5 1555.7) scale(1.1538)" xlink:href="#image-2"/>
+    <rect class="cls-6" x="1160" y="1638.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1182.10693 1651.7)">x9</text>
+    <rect class="cls-6" x="1120" y="1606.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1134.3208 1619.7)">x423</text>
+    <path class="cls-2" d="M1376.6,1687.5H1216.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1211.6,1687.5l7-3.5-1.80005,3.5L1218.6,1691Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1375.9,1649.5h-159" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1211.6,1649.5l7-3.5-1.80005,3.5L1218.6,1653Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1374.9,1615.5h-158" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1211.6,1615.5l7-3.5-1.80005,3.5L1218.6,1619Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1216.9,1584.5h159.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1211.6,1584.5l7-3.5-1.80005,3.5L1218.6,1588Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1376.80005,1553.5h-160" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1211.6,1553.5l7-3.5-1.80005,3.5L1218.6,1557Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1242.5" y="1531.2" width="125" height="20"/>
+    <text class="cls-7" transform="translate(1244.71289 1544.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <rect class="cls-6" x="1175.90002" y="1521.2" width="28.19995" height="30"/>
+    <path class="cls-10" d="M1176.4,1524.9a3.92641,3.92641,0,0,1,3.4-3.4h19l5.80005,6v20.4a3.95776,3.95776,0,0,1-3,3.7h-22a3.73458,3.73458,0,0,1-3.1-3.5v-23.2Zm2.4,22.9a1.367,1.367,0,0,0,1.4,1.4h20.8a1.53257,1.53257,0,0,0,1.30005-1.6v-18.80005h-4.69995v-4.9h-17.4a1.49326,1.49326,0,0,0-1.30005,1.4v22.5Zm6.29993-3.4a.94823.94823,0,0,1-1.30005-.19995.935.935,0,0,1,.1-1.30005l8.9-6.3-5.5-6.4a1.2384,1.2384,0,0,1,.30005-1.4.935.935,0,0,1,1.3.1l6.1,7a1.08746,1.08746,0,0,1,0,1.5Zm5.20007.1a1.23678,1.23678,0,0,1-.4-1.4,1.29936,1.29936,0,0,1,1.2-.80005h5.19995a1.42539,1.42539,0,0,1,.6,1.2,1.21471,1.21471,0,0,1-.8,1h-5.7998Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1376.9,1514.5h-160" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1211.6,1514.5l7-3.5-1.80005,3.5L1218.6,1518Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="675" y="1487.60002" width="490" height="30"/>
+    <text class="cls-7" transform="translate(673.07422 1506.7)">..\AppData\Local\Microsoft\Windows\PowerShell\StartupProfileData-Interactive</text>
+    <rect class="cls-6" x="1175.90002" y="1488.79998" width="27" height="28.69995"/>
+    <path d="M1176.4,1492.4a3.62519,3.62519,0,0,1,3.2-3.3h18.19995l5.6,5.69995v19.4a3.85122,3.85122,0,0,1-3.4,3.6h-20.30005a3.61577,3.61577,0,0,1-3.19995-3.19995v-22.2Zm2.2,21.7a1.41048,1.41048,0,0,0,1.1,1.4H1200a1.39046,1.39046,0,0,0,1.1-1.4v-17.9h-4.5V1491.5h-16.80005a1.63,1.63,0,0,0-1.1,1.30005Zm4.9-15.79993H1196v2.4h-12.5Zm0,4.6H1196v2.4h-12.5Zm0,4.5H1196v2.4h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1240.30005" y="1493.2" width="129.5" height="20"/>
+    <text class="cls-7" transform="translate(1244.71289 1506.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <rect class="cls-6" x="772.5" y="1513.2" width="387.5" height="45"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(884.91748 1532.43437)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_czw2z43.ps1</tspan></text>
+      <text class="cls-7" transform="translate(849.91748 1549.23436)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_kbvej4jh.axd.psm1</tspan></text>
+    </g>
+    <rect class="cls-6" x="1120" y="1563.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1138.21387 1576.7)">x88</text>
+    <path class="cls-2" d="M1909.6,1013.5V733.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1909.6,728.6l3.5,7-3.5-1.8-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1909.7,1013.5v-90H2173.5V857.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2173.5,852.6l3.5,7-3.5-1.8-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M670.8,773.3H790.6v-588H673.4" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M668.1,185.3l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1180.5,686.3h20v-443" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1085,671.3h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,1085,671.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1089.03516 690.7)">PowerShell</text>
+    <path class="cls-2" d="M1821.6,712.5h-66V563.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1755.7,558.6l3.5,7-3.5-1.8-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1859.6,712.5h-9.1V349.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1850.5,344.6l3.5,7-3.5-1.8-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1959.6,712.5h140.9V623.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2100.5,618.6l3.5,7-3.5-1.8-3.5,1.8Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1864.1,697.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5V702A4.48129,4.48129,0,0,1,1864.1,697.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1868.03516 716.7)">PowerShell</text>
+    <path class="cls-2" d="M2223.6001,836.5h153.6001" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2382.5,836.5l-7,3.5,1.8-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M2128.1001,821.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5V826A4.48129,4.48129,0,0,1,2128.1001,821.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(2145.37891 840.7)">csc.exe</text>
+    <path class="cls-4" d="M2388.1001,821.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5V826A4.48129,4.48129,0,0,1,2388.1001,821.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(2396.04297 840.7)">cvtres.exe</text>
+    <path class="cls-2" d="M1695.6,542.5H1553.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1550" cy="542.2" r="3"/>
+    <path class="cls-4" d="M1700.1,527.5h107a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-107a4.48129,4.48129,0,0,1-4.5-4.5V532A4.48129,4.48129,0,0,1,1700.1,527.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1698.25391 546.7)">accessChk.exe</text>
+    <path class="cls-4" d="M1812.5,313.5H1916a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5H1812.5a4.48129,4.48129,0,0,1-4.5-4.5V318A4.48129,4.48129,0,0,1,1812.5,313.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1813.68359 332.7)">sdelete64.exe</text>
+    <path class="cls-4" d="M2040,587.5h101a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5H2040a4.48129,4.48129,0,0,1-4.5-4.5V592A4.48129,4.48129,0,0,1,2040,587.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(2039.68359 606.7)">sdelete64.exe</text>
+    <path class="cls-2" d="M570.8,543.3H455.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M449.9,543.3l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M575.2,529.3h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.613,4.613,0,0,1,575.2,529.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(592.37891 548.7)">csc.exe</text>
+    <path class="cls-4" d="M565.2,424.3h101a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-101a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.613,4.613,0,0,1,565.2,424.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(563.35938 443.7)">PsExec64.exe</text>
+    <path class="cls-2" d="M557,269.3H420.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M561.5,254.3h101a4.48128,4.48128,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-101a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48128,4.48128,0,0,1,561.5,254.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(560.35938 273.7)">PsExec64.exe</text>
+    <path class="cls-4" d="M565.2,170.3h97.2a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5H565.2a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.613,4.613,0,0,1,565.2,170.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(561.35938 189.7)">PsExec64.exe</text>
+    <path class="cls-2" d="M570.8,673.3H455.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M449.9,673.3l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M575.2,657.3h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.613,4.613,0,0,1,575.2,657.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(579.03522 676.7)">PowerShell</text>
+    <path class="cls-4" d="M353.2,529.3h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.613,4.613,0,0,1,353.2,529.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(361.043 548.7)">cvtres.exe</text>
+    <path class="cls-4" d="M353.2,657.3h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.613,4.613,0,0,1,353.2,657.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(354.35941 676.7)">conhost.exe</text>
+    <rect class="cls-6" x="1910" y="903.2" width="120" height="20"/>
+    <text class="cls-7" transform="translate(1929.43115 916.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="2243.1001" y="811.2" width="120" height="20"/>
+    <text class="cls-7" transform="translate(2262.43115 824.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1776" y="903.2" width="120" height="20"/>
+    <text class="cls-7" transform="translate(1795.43115 916.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="676.5" y="747.7" width="120" height="20"/>
+    <text class="cls-7" transform="translate(696.43121 761.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="677.5" y="650.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(697.43121 664.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="676.5" y="523.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(696.43121 537.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="670.29999" y="353.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(689.43121 367.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="670.29999" y="184.59999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(689.43121 198.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="2075" y="607.2" width="20" height="120"/>
+    <text class="cls-7" transform="translate(2088.5 706.76836) rotate(-90)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1731.09998" y="577.2" width="20" height="120"/>
+    <text class="cls-7" transform="translate(1744.63 676.89922) rotate(-90)">Sysmon ID 1</text>
+    <path class="cls-4" d="M352,758.3h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5H352a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,352,758.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(353.35941 777.7)">conhost.exe</text>
+    <path class="cls-4" d="M575.2,758.3h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.613,4.613,0,0,1,575.2,758.3Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(579.03522 777.7)">PowerShell</text>
+    <path class="cls-2" d="M570.8,773.3H456.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M451.6,773.3l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1175" y="1673.2" width="30" height="30"/>
+    <path class="cls-11" d="M1193.6,1689.1a1.07545,1.07545,0,0,0-.1-1.4L1184.7,1679.3999a1.6716,1.6716,0,0,0-2.19995,0,1.69,1.69,0,0,0,0,2.30005l7,6.6-6.9,6.1a1.799,1.799,0,0,0-.4,2.2,1.61991,1.61991,0,0,0,2.5.3Zm4.70007,8.3a1.2101,1.2101,0,0,0,1.19995-1.19995,1.24009,1.24009,0,0,0-1.19995-1.30005h-7a1.27716,1.27716,0,0,0-1.19995,1.2,1.24084,1.24084,0,0,0,1.19995,1.3Zm-20.9,6.1a1.89876,1.89876,0,0,1-1.9-1.9v-26.2a1.965,1.965,0,0,1,1.9-1.9h26.2a1.98537,1.98537,0,0,1,2,1.9v26.1a1.8952,1.8952,0,0,1-1.9,1.9H1177.4Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1453.69995" y="1610.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1468.43115 1623.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1443.69995" y="1643.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1468.43115 1656.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1455.5,1633.5h106.30005" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1452" cy="1633.2" r="3"/>
+    <path class="cls-2" d="M1454.5,1663.5h106.30005" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1451" cy="1663.2" r="3"/>
+    <path class="cls-2" d="M1561,1693.5l.5-60" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1630" y="1610.7" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1644.43115 1624.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1620" y="1643.7" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1644.43115 1657.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1631.80005,1634H1738.1001" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1628.30005" cy="1633.7" r="3"/>
+    <path class="cls-2" d="M1630.80005,1664H1737.1001" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1627.30005" cy="1663.7" r="3"/>
+    <path class="cls-2" d="M1737.2,1694l.5-60" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2239.2,1583.5l-163.6001,1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2244.5,1583.5l-7,3.5,1.7-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1771" y="1458.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1785.43115 1471.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1775.09998" y="1488.79998" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1785.53809 1502.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1765.09998" y="1523.7" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1785.53809 1537.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="1790" y="1555.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1814.43115 1568.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1783.5,1575.5l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780" cy="1575.2" r="3"/>
+    <path class="cls-2" d="M1783.5,1543.5h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780" cy="1543.2" r="3"/>
+    <path class="cls-2" d="M1783.5,1509.5h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780" cy="1509.2" r="3"/>
+    <path class="cls-2" d="M1911,1477.5l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780" cy="1478.2" r="3"/>
+    <rect class="cls-6" x="1861.09998" y="1458.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1879.21387 1471.7)">x64</text>
+    <rect class="cls-6" x="1861.80005" y="1490.79998" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1884.10693 1504.7)">x5</text>
+    <rect class="cls-6" x="1860" y="1523.7" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1882.10693 1537.7)">x8</text>
+    <rect class="cls-6" x="1771.19995" y="1230.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1785.43115 1243.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1775.30005" y="1260.79998" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1785.53809 1274.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1765.30005" y="1295.7" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1785.53809 1309.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="1761" y="1328.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1785.43115 1341.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1783.7,1348.5l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780.19995" cy="1348.2" r="3"/>
+    <path class="cls-2" d="M1783.7,1315.5h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780.19995" cy="1315.2" r="3"/>
+    <path class="cls-2" d="M1783.7,1281.5h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780.19995" cy="1281.2" r="3"/>
+    <path class="cls-2" d="M1911.2,1249.5l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1780.19995" cy="1250.2" r="3"/>
+    <rect class="cls-6" x="1861.30005" y="1230.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1879.21387 1243.7)">x46</text>
+    <rect class="cls-6" x="1862" y="1262.79998" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1880.21387 1276.7)">x30</text>
+    <rect class="cls-6" x="1860.19995" y="1295.7" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1882.10693 1309.7)">x6</text>
+    <path class="cls-2" d="M1909.6,1373.5V1049.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1909.6,1044.6l3.5,7-3.5-1.80005-3.5,1.80005Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2151.2,1303.6l163.6001-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2320.1001,1303.1l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2150.2,1265l223.8999-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2379.3999,1264.5l-7,3.5,1.7-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2150.2,1225l163.6001-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2319.1001,1224.5l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2151.2,1185l163.6001-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2320.1001,1184.5l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2150.2,1104l163.6001-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2319.1001,1103.5l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2150.2,1063l243.8999-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2399.3999,1062.5l-7,3.5,1.7-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2150.2,1024l163.6001-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2319.1001,1023.5l-7,3.5,1.69995-3.5-1.8-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2160.69995" y="1281.79998" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2185.43115 1295.7)">Sysmon ID 5</text>
+    <rect class="cls-6" x="2324.69995" y="1291.2" width="30" height="30"/>
+    <path class="cls-11" d="M2343.30005,1307.1a1.07548,1.07548,0,0,0-.1001-1.4l-8.80005-8.30005a1.6716,1.6716,0,0,0-2.19995,0,1.69,1.69,0,0,0,0,2.30005l7,6.6-6.8999,6.1a1.79859,1.79859,0,0,0-.3999,2.2,1.61992,1.61992,0,0,0,2.5.3Zm4.7,8.3a1.2101,1.2101,0,0,0,1.2-1.19995A1.24009,1.24009,0,0,0,2348,1312.9h-7a1.27725,1.27725,0,0,0-1.2,1.2,1.24092,1.24092,0,0,0,1.2,1.3Zm-20.8999,6.1a1.89866,1.89866,0,0,1-1.8999-1.9v-26.2a1.965,1.965,0,0,1,1.8999-1.9h26.19995a1.92259,1.92259,0,0,1,2,1.9v26.1a1.89518,1.89518,0,0,1-1.8999,1.9h-26.3Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2084.69995" y="1630.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2105.53809 1643.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="2175.69995" y="1204.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2186.53809 1217.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="2166.69995" y="1163.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2187.53809 1176.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="2084.69995" y="1667.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2109.43115 1680.7)">Sysmon ID 5</text>
+    <rect class="cls-6" x="2084.69995" y="1630.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2105.53809 1643.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="2182" y="1121.50005" width="129.5" height="20"/>
+    <text class="cls-7" transform="translate(2186.71289 1134.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <rect class="cls-6" x="2170.8999" y="1083.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2185.43115 1096.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="2172.69995" y="1043.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2187.43115 1056.7)">Sysmon ID 3</text>
+    <rect class="cls-6" x="2174.1001" y="1003.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2188.43115 1016.7)">Sysmon ID 2</text>
+    <rect class="cls-6" x="2327.69995" y="1007.2" width="27" height="28.69995"/>
+    <path d="M2328.2,1010.8a3.7193,3.7193,0,0,1,3.19995-3.3h18.2l5.6001,5.7v19.4a3.85144,3.85144,0,0,1-3.3999,3.6h-20.3a3.61577,3.61577,0,0,1-3.2-3.19995v-22.2Zm2.19995,21.7a1.41045,1.41045,0,0,0,1.1001,1.4h20.3a1.49965,1.49965,0,0,0,1.1001-1.4v-17.9h-4.5v-4.7h-16.8a1.63036,1.63036,0,0,0-1.1001,1.3Zm4.90015-15.8h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Zm0,4.6h12.5v2.4h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M2411,1048.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.48129,4.48129,0,0,1,2411,1048.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(2433.26563 1067.7)">ip:port</text>
+    <use class="cls-8" transform="translate(2324.19995 1082.7) scale(1.1538)" xlink:href="#image-2"/>
+    <rect class="cls-6" x="2640" y="1121.50005" width="27" height="28.69995"/>
+    <path d="M2640.5,1125.1a3.71937,3.71937,0,0,1,3.2-3.30005h18.1001l5.6001,5.7v19.4a3.85145,3.85145,0,0,1-3.39991,3.6h-20.3a3.61578,3.61578,0,0,1-3.2-3.2V1125.1Zm2.2,21.70007a1.41045,1.41045,0,0,0,1.1001,1.4h20.30005a1.49965,1.49965,0,0,0,1.1001-1.4v-17.9h-4.5v-4.69995h-16.80005a1.63016,1.63016,0,0,0-1.1001,1.3ZM2647.6001,1131h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <use class="cls-8" transform="translate(2327.19995 1203.7)" xlink:href="#image"/>
+    <rect class="cls-6" x="2309.69995" y="1163.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2328.7334 1176.7)">x<tspan class="cls-9" x="7" y="0">1</tspan><tspan x="13.74707" y="0">1</tspan></text>
+    <rect class="cls-6" x="2510" y="1053.2" width="110" height="20"/>
+    <text class="cls-12" transform="translate(2513.89697 1066.7)">192.168.0.5:443</text>
+    <path class="cls-2" d="M2150.2,1144l473.8999-.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2629.3999,1143.5l-7,3.5,1.7-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2166.8999" y="1242.79998" width="129.5" height="20"/>
+    <text class="cls-7" transform="translate(2188.05762 1256.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1</tspan></text>
+    <rect class="cls-6" x="2383.1001" y="1250.2" width="27" height="28.69995"/>
+    <path d="M2383.6001,1253.80005a3.71937,3.71937,0,0,1,3.19995-3.30005H2405l5.6001,5.69995v19.4a3.85144,3.85144,0,0,1-3.3999,3.6h-20.30005A3.61577,3.61577,0,0,1,2383.7002,1276v-22.19995Zm2.19995,21.69995a1.41045,1.41045,0,0,0,1.1001,1.4h20.30005a1.49965,1.49965,0,0,0,1.10009-1.4v-17.9h-4.5v-4.7H2387a1.63019,1.63019,0,0,0-1.1001,1.30005ZM2390.7,1259.7h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Zm0,4.6001h12.5v2.4h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2346" y="1083.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2360.3208 1096.7)">x128</text>
+    <rect class="cls-6" x="2346" y="1210.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2360.3208 1223.7)">x225</text>
+    <rect class="cls-6" x="2680" y="1035.89995" width="830" height="188.09998"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(2670 1070.88359)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_phty1p2f.clc.ps1</tspan></text>
+      <text class="cls-7" transform="translate(2670 1087.68358)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_c1hz1g2</tspan><tspan class="cls-9" x="243.56445" y="0">y</tspan><tspan x="249.52539" y="0">.0ng.psm1</tspan></text>
+      <text class="cls-7" transform="translate(2670 1104.48357)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\qkbkqqbs</tspan></text>
+      <text class="cls-7" transform="translate(2670 1121.28362)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\qkbkqqbs\qkbkqqbs.tmp</tspan></text>
+      <text class="cls-7" transform="translate(2670 1138.08361)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\qkbkqqbs\qkbkqqbs.0.cs</tspan></text>
+      <text class="cls-7" transform="translate(2670 1154.88359)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\qkbkqqbs\qkbkqqbs.cmdline</tspan></text>
+      <text class="cls-7" transform="translate(2670 1171.68358)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\qkbkqqbs\qkbkqqbs.out</tspan></text>
+      <text class="cls-7" transform="translate(2670 1188.48357)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\qkbkqqbs\qkbkqqbs.err</tspan></text>
+      <text class="cls-7" transform="translate(2670 1205.28362)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\qkbkqqbs\qkbkqqbs.dll</tspan></text>
+      <text class="cls-7" transform="translate(2670 1222.08361)">..\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\590aee7bdd69b59b.CustomDestinations-ms~RF5a241C.TM<tspan class="cls-17" x="805.7793" y="0">P</tspan></text>
+    </g>
+    <rect class="cls-6" x="2363.1001" y="1000.90001" width="550" height="29.99994"/>
+    <text class="cls-18" transform="translate(2364.5 1019.7)">..\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5EQE4KYWW5ZA67CARNY3.temp</text>
+    <rect class="cls-6" x="2420" y="1236.2" width="686.8999" height="90"/>
+    <g class="cls-8">
+      <text class="cls-18" transform="translate(2421.5 1254.7)">..\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5EQE4KYWW5ZA67CARNY3.temp</text>
+      <text class="cls-18" transform="translate(2421.5 1269.10002)">..\AppData\Roaming\Microsoft\Crypto\RSA\S-1-S-21-1830255721-3227074217-2423397540-<tspan class="cls-9" x="494.30273" y="0">1</tspan><tspan x="500.08594" y="0">107\759b3ce8d23a2a295661b6fb52b574e1_47ab858c-e134-41af-97b1-464e68b17455</tspan></text>
+      <text class="cls-18" transform="translate(2421.5 1283.49999)">..\Downloads\SysinternalsSuite.zip</text>
+    </g>
+    <rect class="cls-6" x="2159.69995" y="663.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2174.43115 676.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="2163.5" y="693.49999" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2175.05762 707.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1</tspan></text>
+    <rect class="cls-6" x="2170.8999" y="724.7" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2175.71289 738.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <rect class="cls-6" x="2152.5" y="756.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2177.43115 769.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M2170.30005,777.5h137.2" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2310" cy="777.2" r="3"/>
+    <path class="cls-2" d="M2171.30005,744.5H2304.1001" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2309.3999,744.5l-7,3.5,1.80005-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2171.30005,712.5H2304.1001" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2309.3999,712.5l-7,3.5,1.80005-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2304.1001,683.5H2170.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2309.3999,683.5l-7,3.5,1.80005-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2338.1001" y="663.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2356.21387 676.7)">x35</text>
+    <path class="cls-2" d="M2170.3999,821.4l.1001-137.9" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2350.5" y="694.7" width="220" height="30"/>
+    <text class="cls-18" transform="translate(2352.5 713.7)">..\<tspan class="cls-13" x="10.00195" y="0">T</tspan><tspan x="16.00195" y="0">emp\qkbkqqbs\qkbkqqbs.dll</tspan></text>
+    <rect class="cls-6" x="2350.5" y="723.2" width="471.8999" height="40"/>
+    <g class="cls-8">
+      <text class="cls-18" transform="translate(2352.5 741.7)">..\<tspan class="cls-13" x="10.00195" y="0">T</tspan><tspan x="16.00195" y="0">emp\RES2758.tmp</tspan></text>
+      <text class="cls-18" transform="translate(2352.5 756.10002)">..\<tspan class="cls-13" x="10.00195" y="0">T</tspan><tspan x="16.00195" y="0">emp\qkbkqqbs\CSC6B76613243A54474837EBEC19BC0E56A.TM</tspan><tspan class="cls-17" x="371.56641" y="0">P</tspan></text>
+    </g>
+    <rect class="cls-6" x="2319" y="728.49999" width="27" height="28.70001"/>
+    <path d="M2319.5,732.1a3.7193,3.7193,0,0,1,3.2-3.3h18.1001l5.6001,5.7v19.4a3.769,3.769,0,0,1-3.39991,3.6h-20.3a3.61584,3.61584,0,0,1-3.2-3.2V732.1Zm2.2,21.7a1.41045,1.41045,0,0,0,1.1001,1.4h20.30005a1.4104,1.4104,0,0,0,1.1001-1.4V735.9h-4.5v-4.7h-16.80005a1.63033,1.63033,0,0,0-1.1001,1.3Zm4.90015-15.8h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2319" y="694.2" width="27" height="28.70001"/>
+    <path d="M2319.5,697.8a3.7193,3.7193,0,0,1,3.2-3.3h18.1001l5.6001,5.7v19.4a3.85144,3.85144,0,0,1-3.39991,3.6h-20.3a3.61584,3.61584,0,0,1-3.2-3.2V697.8Zm2.2,21.7a1.41045,1.41045,0,0,0,1.1001,1.4h20.30005a1.49976,1.49976,0,0,0,1.1001-1.4V701.6h-4.5v-4.7h-16.80005a1.63036,1.63036,0,0,0-1.1001,1.3Zm4.90015-15.8h12.5v2.4h-12.5Zm0,4.5h12.5v2.4h-12.5Zm0,4.6h12.5v2.4h-12.5Z" transform="translate(-0.5 -0.3)"/>
+    <use class="cls-8" transform="translate(2315.5 658.7) scale(1.1538)" xlink:href="#image-2"/>
+    <path class="cls-2" d="M2483.6001,836.5h210.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M2699.3999,836.5l-7,3.5,1.80005-3.5-1.80005-3.5Z" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="2520" y="818.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2534.43115 831.7)">Sysmon ID 7</text>
+    <use class="cls-8" transform="translate(2709.5 817.7) scale(1.1538)" xlink:href="#image-2"/>
+    <rect class="cls-6" x="2750" y="801.90001" width="450" height="62.5"/>
+    <g class="cls-8">
+      <text class="cls-18" transform="translate(2751.5 820.7)">ntdll.dll, Kernel32.dll, KernelBase.dll, advapi32.dll, msvcrt.dll, sechost.dll,</text>
+      <text class="cls-18" transform="translate(2751.5 835.10002)"><tspan xml:space="preserve">rpcrt4.dll, vcruntime140_clr0400.dll, ucrtbase_clr0400.dll,  </tspan></text>
+      <text class="cls-18" transform="translate(2751.5 849.49999)">cryptsp.dll, rsaenh.dll, bcrypt.dll, bcryptprimitives.dll, kerel.appcore.dll</text>
+    </g>
+    <path class="cls-2" d="M1720.5,712.5h139.1" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1565.59998" y="693.49999" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1580.43115 707.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1568.59998" y="727.79998" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1579.53809 741.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1557" y="756.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1577.53809 770.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="1555" y="877.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1579.43115 890.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1720.5,712.5h-148" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1569" cy="712.2" r="3"/>
+    <rect class="cls-6" x="1668.69995" y="694.49999" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1683.3208 708.7)">x171</text>
+    <rect class="cls-6" x="1667.40002" y="728.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1677.94727 741.7)">x<tspan class="cls-9" x="7" y="0">1</tspan><tspan x="13.74707" y="0">152</tspan></text>
+    <rect class="cls-6" x="1667.59998" y="756.99999" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1686.21387 770.7)">x14</text>
+    <path class="cls-2" d="M1733.5,712.5v185" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1557.59998" y="788.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1579.05762 801.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1</tspan></text>
+    <rect class="cls-6" x="1665" y="788.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1679.3208 801.7)">x320</text>
+    <path class="cls-2" d="M1570.5,869.2l163,.3" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1567" cy="868.90001" r="3"/>
+    <path class="cls-2" d="M1570.5,897.5h163" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1567" cy="897.2" r="3"/>
+    <rect class="cls-6" x="1557" y="848.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1577.53809 861.7)">Sysmon ID 23</text>
+    <rect class="cls-6" x="1665" y="848.2" width="45" height="20"/>
+    <text class="cls-12" transform="translate(1679.10693 861.7)">x8</text>
+    <rect class="cls-6" x="1557" y="818.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1577.53809 831.7)">Sysmon ID 22</text>
+    <rect class="cls-6" x="1675.59998" y="820.2" width="40" height="20"/>
+    <text class="cls-18" transform="translate(1671.48535 833.7)">localho...</text>
+    <rect class="cls-6" x="1548.59998" y="517.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1573.43115 530.7)">Sysmon ID 5</text>
+    <rect class="cls-6" x="1552.5" y="488.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1573.05762 501.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1</tspan></text>
+    <path class="cls-2" d="M1555.5,512.2h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1552" cy="511.90001" r="3"/>
+    <path class="cls-2" d="M1555.5,483.5h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1552" cy="483.2" r="3"/>
+    <path class="cls-2" d="M1695.6,542.5l-.1-59" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="1557.59998" y="462.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1572.43115 475.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1372.90002" y="482.2" width="165" height="20"/>
+    <g class="cls-8">
+      <text class="cls-12" transform="translate(1390.16504 486.7376)">C:\Program </text>
+      <text class="cls-12" transform="translate(1311.96509 503.53765)">Files\SysinternalsSuite\passwordsDB</text>
+    </g>
+    <rect class="cls-6" x="1643" y="463.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1661.21387 476.7)">x19</text>
+    <rect class="cls-6" x="1711.59998" y="175.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1726.43115 188.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1715.69995" y="205.80001" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1726.53809 219.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1705" y="241.80001" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1725.53809 255.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="1701.59998" y="272.49999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1726.43115 285.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1724.1,293.5l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1720.59998" cy="293.2" r="3"/>
+    <path class="cls-2" d="M1724.1,260.5H1851" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1720.59998" cy="260.2" r="3"/>
+    <path class="cls-2" d="M1724.1,226.5H1851" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1720.59998" cy="226.2" r="3"/>
+    <path class="cls-2" d="M1851.7,194.5l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1720.59998" cy="195.2" r="3"/>
+    <rect class="cls-6" x="1801.69995" y="175.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1820.21387 188.7)">x35</text>
+    <rect class="cls-6" x="1805.40002" y="206.80001" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1827.10693 220.7)">x2</text>
+    <path class="cls-2" d="M1851.30005,311.4,1851.5,163.5" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1723.4,165l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1719.90002" cy="164.7" r="3"/>
+    <rect class="cls-6" x="1715.69995" y="143.2" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1726.53809 156.7)">Sysmon ID 23</text>
+    <rect class="cls-6" x="1490.5" y="143.2" width="140" height="20"/>
+    <text class="cls-18" transform="translate(1404.93359 153.2)">C:\Users\pbeesZZZZZZZZZZZZZZZZZZZZZZZZZZZ.ZZZ</text>
+    <rect class="cls-6" x="1434.40002" y="233.2" width="293" height="22.5"/>
+    <text class="cls-18" transform="translate(1435.5 251.7)">HKCU\Software\Sysinternals\SDelete\EulaAccepted</text>
+    <rect class="cls-6" x="1510" y="195.2" width="211.80005" height="22.5"/>
+    <text class="cls-18" transform="translate(1511.5 213.7)">HKCU\Software\Sysinternals\SDelete</text>
+    <rect class="cls-6" x="2088.19995" y="451.30001" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2102.43115 464.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="2092.30005" y="481.90001" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2102.53809 495.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="2084.3999" y="515.49999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2104.53809 529.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="2078.19995" y="549.29998" width="130" height="20"/>
+    <text class="cls-7" transform="translate(2102.43115 562.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M2097.7,569.6l127.1001-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2227.30005" cy="568.79998" r="3"/>
+    <path class="cls-2" d="M2097.7,536.6h126.8999" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2227.1001" cy="536.29998" r="3"/>
+    <path class="cls-2" d="M2097.7,502.6h126.8999" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2227.1001" cy="502.30001" r="3"/>
+    <path class="cls-2" d="M2225.2,470.6l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2227.69995" cy="470.30001" r="3"/>
+    <rect class="cls-6" x="2178.30005" y="451.30001" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2196.21387 464.7)">x35</text>
+    <rect class="cls-6" x="2182" y="482.90001" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2204.10693 496.7)">x2</text>
+    <path class="cls-2" d="M2098.80005,587.5l.2-147.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M2096.8999,441.1,2224,440.6" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2226.6001" cy="440.30001" r="3"/>
+    <rect class="cls-6" x="2092.30005" y="419.30001" width="110" height="20"/>
+    <text class="cls-7" transform="translate(2102.53809 432.7)">Sysmon ID 23</text>
+    <rect class="cls-6" x="2327.69995" y="420.99999" width="140" height="20"/>
+    <text class="cls-18" transform="translate(2244.47168 432.7)">C:\Users\pbeesZZZZZZZZZZZZZZZZZZZZZZZZZZZ.ZZZ</text>
+    <rect class="cls-6" x="2242.5" y="514.29998" width="293" height="22.5"/>
+    <text class="cls-18" transform="translate(2243.5 532.7)">HKCU\Software\Sysinternals\SDelete\EulaAccepted</text>
+    <rect class="cls-6" x="2242.5" y="479.40001" width="211.80005" height="22.5"/>
+    <text class="cls-18" transform="translate(2243.5 497.7)">HKCU\Software\Sysinternals\SDelete</text>
+    <rect class="cls-6" x="1943" y="261.80001" width="110" height="20"/>
+    <text class="cls-7" transform="translate(1957.43115 275.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="1947.09998" y="292.49999" width="110.00012" height="20"/>
+    <text class="cls-7" transform="translate(1957.53809 305.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="1937.09998" y="326.90001" width="130.00012" height="20"/>
+    <text class="cls-7" transform="translate(1957.53809 340.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="1937.09998" y="359.80001" width="130.00012" height="20"/>
+    <text class="cls-7" transform="translate(1961.43115 373.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1952.5,380.1l127.1001-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2082.1001" cy="379.30001" r="3"/>
+    <path class="cls-2" d="M1952.5,347.1h126.8999" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2081.8999" cy="346.80001" r="3"/>
+    <path class="cls-2" d="M1952.5,313.1h126.8999" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2081.8999" cy="312.80001" r="3"/>
+    <path class="cls-2" d="M2080,281.2l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2082.5" cy="280.80001" r="3"/>
+    <rect class="cls-6" x="2033.09998" y="261.80001" width="60.00012" height="20"/>
+    <text class="cls-12" transform="translate(2051.21387 275.7)">x36</text>
+    <rect class="cls-6" x="2036.80005" y="293.49999" width="60" height="20"/>
+    <text class="cls-12" transform="translate(2059.10693 306.7)">x4</text>
+    <path class="cls-2" d="M1951.80005,251.6l127.1001-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="2081.3999" cy="250.80001" r="3"/>
+    <rect class="cls-6" x="1947.09998" y="229.80001" width="110.00012" height="20"/>
+    <text class="cls-7" transform="translate(1957.53809 243.7)">Sysmon ID 23</text>
+    <rect class="cls-6" x="2179" y="229.80001" width="140" height="20"/>
+    <text class="cls-18" transform="translate(2096.44995 244.45)">C:\Users\pbeesZZZZZZZZZZZZZZZZZZZZZZZZZZZ.ZZZ</text>
+    <rect class="cls-6" x="2096.80005" y="325.7" width="293" height="22.5"/>
+    <text class="cls-18" transform="translate(2098.5 343.7)">HKCU\Software\Sysinternals\SDelete\EulaAccepted</text>
+    <rect class="cls-6" x="2094.69995" y="274.2" width="211.80005" height="39.29999"/>
+    <g class="cls-8">
+      <text class="cls-18" transform="translate(2096.5 292.7)">HKCU\Software\</text>
+      <text class="cls-18" transform="translate(2096.5 307.10002)">HKCU\Software\Sysinternals\</text>
+      <text class="cls-18" transform="translate(2096.5 321.50005)">HKCU\Software\Sysinternals\SDelete</text>
+    </g>
+    <path class="cls-2" d="M1951.5,449.5l.30005-196.8" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M791.5,441.3H677.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M672.6,441.3l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M790.8,543.8H677.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M671.9,543.8l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M790.8,671.8H677.1" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M671.9,671.8l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M790.5,686.3h290" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M1061.4,572.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1057.90002" cy="571.99999" r="3"/>
+    <rect class="cls-6" x="1069" y="547.79998" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1089.53809 561.7)">Sysmon ID 22</text>
+    <rect class="cls-6" x="862.29999" y="520.99999" width="200.00006" height="100"/>
+    <g class="cls-8">
+      <text class="cls-12" transform="translate(924.66022 530.43462)">nashua</text>
+      <text class="cls-12" transform="translate(867.06024 547.23467)">NEWYORK.dmevals.local</text>
+      <text class="cls-12" transform="translate(850.36023 564.03459)">psg-prod-eastus.azureedge.net</text>
+      <text class="cls-12" transform="translate(861.26019 580.83464)">ww<tspan class="cls-15" x="20.2207" y="0">w</tspan><tspan x="29.55859" y="0">.powershellgaller</tspan><tspan class="cls-9" x="134.61328" y="0">y</tspan><tspan x="140.57422" y="0">.com</tspan></text>
+      <text class="cls-12" transform="translate(868.26019 597.63457)">onegetcdn.azureedge.net</text>
+      <text class="cls-12" transform="translate(894.36023 614.43462)">go.microsoft.com</text>
+    </g>
+    <rect class="cls-6" x="1062.30005" y="600.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1086.43115 614.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1060.5,622.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1057" cy="621.99999" r="3"/>
+    <rect class="cls-6" x="1063.69995" y="447.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1088.43115 461.7)">Sysmon ID 3</text>
+    <path class="cls-2" d="M1061,469.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1057.5" cy="468.99999" r="3"/>
+    <rect class="cls-6" x="915.70001" y="416.40001" width="119.20001" height="89.70001"/>
+    <g class="cls-8">
+      <text class="cls-12" transform="translate(923.29053 416.43022)">23.4.15.75:443</text>
+      <text class="cls-12" transform="translate(915.49054 433.23027)">72.21.81.200:443</text>
+      <text class="cls-12" transform="translate(907.69055 450.0302)">168.61.186.235:443</text>
+      <text class="cls-12" transform="translate(923.29053 466.83013)">192.168.0.4:80</text>
+      <text class="cls-12" transform="translate(931.09052 483.63018)">10.0.0.4:389</text>
+      <text class="cls-12" transform="translate(927.19055 500.43022)">10.0.1.6:5985</text>
+    </g>
+    <rect class="cls-6" x="1061.30005" y="377.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1068.82666 391.7)">Sysmon ID 7 x2<tspan class="cls-9" x="98.81348" y="0">1</tspan><tspan x="105.56055" y="0">1</tspan></text>
+    <path class="cls-2" d="M1059.5,399.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1056" cy="398.99999" r="3"/>
+    <rect class="cls-6" x="1061.30005" y="336.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1068.82666 350.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 x99</tspan></text>
+    <path class="cls-2" d="M1059.5,358.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1056" cy="357.99999" r="3"/>
+    <rect class="cls-6" x="1059" y="298.99999" width="142.19995" height="20"/>
+    <text class="cls-7" transform="translate(1060.62793 312.7)">Sysmon ID 12 x15370</text>
+    <path class="cls-2" d="M1060.5,320.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1057" cy="319.99999" r="3"/>
+    <rect class="cls-6" x="1058" y="259.99999" width="142.19995" height="20"/>
+    <text class="cls-7" transform="translate(1071.30713 273.7)">Sysmon ID 23 x63</text>
+    <path class="cls-2" d="M1059.5,281.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1056" cy="280.99999" r="3"/>
+    <rect class="cls-6" x="1059" y="222" width="142.19995" height="20"/>
+    <text class="cls-7" transform="translate(1072.30713 235.7)">Sysmon ID 13 x13</text>
+    <path class="cls-2" d="M1060.5,243.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1057" cy="243" r="3"/>
+    <rect class="cls-6" x="605.90002" y="30.3" width="110" height="20"/>
+    <text class="cls-7" transform="translate(620.43121 43.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="610" y="61" width="110" height="20"/>
+    <text class="cls-7" transform="translate(620.53809 74.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="600" y="95.8" width="130" height="20"/>
+    <text class="cls-7" transform="translate(620.53809 109.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="595.90002" y="128" width="130" height="20"/>
+    <text class="cls-7" transform="translate(620.43121 141.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M613.4,147.6l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="743" cy="146.80001" r="3"/>
+    <path class="cls-2" d="M613.4,115.6h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="742.79999" cy="115.3" r="3"/>
+    <path class="cls-2" d="M612.4,81.6h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="741.79999" cy="81.3" r="3"/>
+    <path class="cls-2" d="M739.9,49.6l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="742.40002" cy="49.3" r="3"/>
+    <rect class="cls-6" x="750" width="82.59998" height="20"/>
+    <text class="cls-12" transform="translate(751.57617 13.7)">10.0.1.6:135</text>
+    <rect class="cls-6" x="703.20001" y="30.6" width="43.29999" height="20"/>
+    <text class="cls-12" transform="translate(713.21393 44.7)">x54</text>
+    <path class="cls-2" d="M613.9,170.3,612.4,25.4" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M740,23.5l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="742.5" cy="23.1" r="3"/>
+    <rect class="cls-6" x="605.90002" y="3" width="110" height="20"/>
+    <text class="cls-7" transform="translate(620.43121 16.7)">Sysmon ID 3</text>
+    <rect class="cls-6" x="750" y="88" width="280" height="30"/>
+    <text class="cls-18" transform="translate(751.5 106.7)">HKCU\Software\Sysinternals\PsExec\EulaAccepted</text>
+    <rect class="cls-6" x="706.70001" y="61" width="43.29999" height="20"/>
+    <text class="cls-12" transform="translate(720.10687 74.7)">x8</text>
+    <rect class="cls-6" x="280" y="204.30001" width="110" height="20"/>
+    <text class="cls-7" transform="translate(294.43121 217.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="284.10001" y="235" width="110" height="20"/>
+    <text class="cls-7" transform="translate(294.53809 248.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="274.10001" y="269.80001" width="130" height="20"/>
+    <text class="cls-7" transform="translate(294.53809 283.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="270" y="301.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(294.43121 315.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M293.5,322.6l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="290" cy="322.30001" r="3"/>
+    <path class="cls-2" d="M293.5,290.6H420.4" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="290" cy="290.30001" r="3"/>
+    <path class="cls-2" d="M292.5,256.6H419.4" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="289" cy="256.30001" r="3"/>
+    <path class="cls-2" d="M420.5,225.3l-128,.3" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="289" cy="225.30001" r="3"/>
+    <rect class="cls-6" x="191.5" y="180" width="82.60001" height="20"/>
+    <text class="cls-12" transform="translate(193.57617 193.7)">10.0.1.6:135</text>
+    <rect class="cls-6" x="377.29999" y="204.59999" width="43.29999" height="20"/>
+    <text class="cls-12" transform="translate(387.2139 218.7)">x54</text>
+    <path class="cls-2" d="M420.2,198.4l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="289.10001" cy="199.09999" r="3"/>
+    <rect class="cls-6" x="283" y="178" width="110" height="20"/>
+    <text class="cls-7" transform="translate(297.43121 191.7)">Sysmon ID 3</text>
+    <rect class="cls-6" y="264.80001" width="280" height="30"/>
+    <text class="cls-18" transform="translate(15.69141 284.00005)">HKCU\Software\Sysinternals\PsExec\EulaAccepted</text>
+    <rect class="cls-6" x="380.79999" y="235" width="43.29999" height="20"/>
+    <text class="cls-12" transform="translate(394.1069 248.7)">x8</text>
+    <path class="cls-2" d="M420.5,428.3v-230" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="270" y="353.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(290.53809 367.7)">Sysmon ID 22</text>
+    <rect class="cls-6" x="191.5" y="354.99999" width="82.60001" height="20"/>
+    <text class="cls-12" transform="translate(209.53467 368.7)">nashua</text>
+    <path class="cls-2" d="M420.5,428.3v5.5c0,3.7,3.3,5.5,10,5.5H560.7" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M791.5,375.3H677.9" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M672.6,375.3l7-3.5-1.8,3.5,1.8,3.5Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-2" d="M620.5,978.3l.2-190" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="610" y="835.60002" width="110" height="20"/>
+    <text class="cls-7" transform="translate(624.43121 849.7)">Sysmon ID 7</text>
+    <rect class="cls-6" x="613.90002" y="864.99999" width="110" height="20"/>
+    <text class="cls-7" transform="translate(624.53809 878.7)">Sysmon ID 12</text>
+    <rect class="cls-6" x="603.90002" y="897.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(624.53809 911.7)">Sysmon ID 13</text>
+    <rect class="cls-6" x="620" y="930.60002" width="130" height="20"/>
+    <text class="cls-7" transform="translate(624.71289 944.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1 &amp; 23</tspan></text>
+    <path class="cls-2" d="M620.4,950.6l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="750" cy="949.79998" r="3"/>
+    <path class="cls-2" d="M620.4,918.6h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="749.79999" cy="918.29998" r="3"/>
+    <path class="cls-2" d="M620.4,886.6h126.9" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="749.79999" cy="886.29998" r="3"/>
+    <path class="cls-2" d="M747.9,855.6l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="750.40002" cy="855.29998" r="3"/>
+    <rect class="cls-6" x="708.59998" y="835.60002" width="43.29999" height="20"/>
+    <text class="cls-12" transform="translate(718.21393 849.7)">x98</text>
+    <path class="cls-2" d="M748,826.5l-127.5,1" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="750.5" cy="826.10002" r="3"/>
+    <rect class="cls-6" x="613.90002" y="805.99999" width="110" height="20"/>
+    <text class="cls-7" transform="translate(625.05762 819.7)">Sysmon ID <tspan class="cls-9" x="72.35156" y="0">1</tspan><tspan x="79.09863" y="0">1</tspan></text>
+    <rect class="cls-6" x="711.20001" y="864.99999" width="43.29999" height="20"/>
+    <text class="cls-12" transform="translate(717.3208 878.7)">x227</text>
+    <rect class="cls-6" x="600" y="957.99999" width="130" height="20"/>
+    <text class="cls-7" transform="translate(624.43121 971.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M620.4,979.6l127.1-.5" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="750" cy="978.79998" r="3"/>
+    <rect class="cls-6" x="765" y="917.99999" width="320" height="45"/>
+    <g class="cls-8">
+      <text class="cls-7" transform="translate(766.5 944.7)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_xul43y2f.znx.ps1</tspan></text>
+      <text class="cls-7" transform="translate(766.5 961.49999)">..\<tspan class="cls-13" x="11.66895" y="0">T</tspan><tspan x="18.66895" y="0">emp\__PSScriptPolicy</tspan><tspan class="cls-13" x="157.17188" y="0">T</tspan><tspan x="164.17188" y="0">est_i01kjsn.irk.psm1</tspan></text>
+    </g>
+    <rect class="cls-6" x="746.5" y="805.99999" width="250" height="20"/>
+    <text class="cls-12" transform="translate(782.90039 818.7)">..\Downloads\gwq4xdw<tspan class="cls-9" x="143.18555" y="0">v</tspan><tspan x="149.14648" y="0">.s5g.bmp</tspan></text>
+    <rect class="cls-6" x="256.10001" y="847.99999" width="142.19998" height="20"/>
+    <text class="cls-7" transform="translate(286.43121 861.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M257.6,868.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="254.10001" cy="867.99999" r="3"/>
+    <rect class="cls-6" x="257.10001" y="807.99999" width="142.19998" height="20"/>
+    <text class="cls-7" transform="translate(274.2002 821.7)">Sysmon ID 7 x28</text>
+    <path class="cls-2" d="M258.6,828.3h140" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="255.10001" cy="827.99999" r="3"/>
+    <path class="cls-2" d="M397.5,868.3v-80" transform="translate(-0.5 -0.3)"/>
+    <rect class="cls-6" x="448.29999" y="653.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(467.43121 667.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="450.29999" y="522.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(469.43121 536.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="450.29999" y="752.99999" width="120" height="20"/>
+    <text class="cls-7" transform="translate(469.43121 766.7)">Sysmon ID 1</text>
+    <path class="cls-2" d="M1616.2,1028.5h-139.4" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-3" d="M1471.6,1028.5l7-3.5-1.80005,3.5L1478.6,1032Z" transform="translate(-0.5 -0.3)"/>
+    <path class="cls-4" d="M1620.80005,1013.5h91a4.48129,4.48129,0,0,1,4.5,4.5v21a4.48129,4.48129,0,0,1-4.5,4.5h-91a4.48129,4.48129,0,0,1-4.5-4.5v-21A4.41944,4.41944,0,0,1,1620.80005,1013.5Z" transform="translate(-0.5 -0.3)"/>
+    <text class="cls-5" transform="translate(1622.35938 1032.7)">conhost.exe</text>
+    <rect class="cls-6" x="1725" y="1005.90001" width="120" height="19.99994"/>
+    <text class="cls-7" transform="translate(1744.43115 1019.7)">Sysmon ID 1</text>
+    <rect class="cls-6" x="1480" y="1007.2" width="95.59998" height="20"/>
+    <text class="cls-7" transform="translate(1487.43115 1020.7)">Sysmon ID 7</text>
+    <use class="cls-8" transform="translate(1433.93005 1012.7) scale(1.1538)" xlink:href="#image-2"/>
+    <rect class="cls-6" x="1555.30005" y="1007.2" width="60" height="20"/>
+    <text class="cls-12" transform="translate(1573.21387 1020.7)">x39</text>
+    <rect class="cls-6" x="1545.59998" y="1053.2" width="130" height="20"/>
+    <text class="cls-7" transform="translate(1570.43115 1066.7)">Sysmon ID 5</text>
+    <path class="cls-2" d="M1523.5,1073.5h133c6.69995,0,10-3.30005,9.9-10l-.19995-20" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1520" cy="1073.2" r="3"/>
+    <path class="cls-2" d="M1570.5,839.5h163" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1567" cy="839.2" r="3"/>
+    <path class="cls-2" d="M1570.5,808.5h163" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1567" cy="808.2" r="3"/>
+    <path class="cls-2" d="M1571.5,777.3h162" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1568" cy="776.99999" r="3"/>
+    <path class="cls-2" d="M1571.5,748.3h162" transform="translate(-0.5 -0.3)"/>
+    <circle class="cls-16" cx="1568" cy="747.99999" r="3"/>
+  </g>
+  <path class="cls-19" d="M0,0" transform="translate(-0.5 -0.3)"/>
+</svg>
