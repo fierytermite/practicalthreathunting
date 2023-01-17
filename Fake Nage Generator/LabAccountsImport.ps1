@@ -241,10 +241,10 @@ function Import-LabADUser
         Import-Module -Name ActiveDirectory
         $DomDN = (Get-ADDomain).DistinguishedName
         $forest = (Get-ADDomain).Forest
-        $ou = Get-ADOrganizationalUnit -Filter "name -eq '$($OrganizationalUnit)'"
-        if($ou -eq $null) {
+        $presubou = Get-ADOrganizationalUnit -Filter "name -eq '$($OrganizationalUnit)'"
+        if($presubou -eq $null) {
             New-ADOrganizationalUnit -Name "$($OrganizationalUnit)" -Path $DomDN
-            $ou = Get-ADOrganizationalUnit -Filter "name -eq '$($OrganizationalUnit)'"
+            $presubou = Get-ADOrganizationalUnit -Filter "name -eq '$($OrganizationalUnit)'"
         }
         $data = 
 
@@ -264,8 +264,7 @@ function Import-LabADUser
                 @{Name="Title"; Expression={$_.Occupation}},
                 @{Name="PasswordNeverExpires"; Expression={$true}} | ForEach-Object -Process {
 
-                    $presubou = Get-ADOrganizationalUnit -Filter "name -eq 'Users' "
-                                 
+                    
                     $subou = Get-ADOrganizationalUnit -Filter "name -eq ""$($_.Country)""" -SearchBase $presubou.DistinguishedName        
                     if($subou -eq $null) {
                         New-ADOrganizationalUnit -Name $_.Country -Path $presubou.DistinguishedName
